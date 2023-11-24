@@ -1,6 +1,9 @@
 # Edge-GS-Hapvida
 Repositório solicitado pelo professor para a entrega de EDGE em global solutions
 
+Este código foi baseado no projeto de nosso professor: Fabio Hnerique Cabrini 
+
+
 # Descrição do problema de saúde abordado
 O código aborda a monitorização de sinais vitais relacionados à saúde cardiovascular e respiratória. Em específico, monitora a frequência cardíaca (batimentos por minuto - BPM) e os níveis de oxigênio no sangue, indicados como percentagem de saturação de oxigênio. Esses são indicadores cruciais para avaliar a saúde do coração e a capacidade do corpo em transportar oxigênio para os tecidos.
 
