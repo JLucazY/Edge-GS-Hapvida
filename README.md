@@ -1,7 +1,7 @@
 # Edge-GS-Hapvida
 Repositório solicitado pelo professor para a entrega de EDGE em global solutions
 
-Este código foi baseado no projeto de nosso professor: Fabio Hnerique Cabrini 
+Este código foi baseado no projeto de nosso professor: Fabio Henrique Cabrini 
 
 
 # Descrição do problema de saúde abordado
