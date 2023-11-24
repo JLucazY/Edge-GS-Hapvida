@@ -31,3 +31,6 @@ Inicialize o sistema e aguarde a conexão com a rede Wi-Fi e o Broker MQTT.
 O programa começará a ler os dados dos sensores e publicar as informações nos tópicos MQTT especificados.
 
 O LED onboard pode ser controlado remotamente enviando mensagens MQTT para o tópico de subscrição.
+
+# Link do projeto no Wokwi
+https://wokwi.com/projects/382197947765446657
